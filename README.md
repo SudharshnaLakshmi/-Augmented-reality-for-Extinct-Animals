@@ -16,7 +16,7 @@
  ## Installation
    ### 1.Clone the repository:
    
-       https://github.com/Rakshithadevi/Augmented-reality-for-Extinct-Animals
+      https://github.com/SudharshnaLakshmi/-Augmented-reality-for-Extinct-Animals.git
    
   ### 2.Install the required packages
   
